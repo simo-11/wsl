@@ -7,6 +7,7 @@ Focus is on debugging failure to start
 Tables using https://www.tablesgenerator.com/markdown_tables
 
 ### Reproduce
+```
 C:\Windows\System32\lxss\tools>bash -c"echo yes"
 The system cannot find the file specified.
 
@@ -34,7 +35,7 @@ Access: 2021-04-02 13:56:34.595820800 +0300
 Modify: 2019-12-07 11:09:05.755385600 +0200
 Change: 2021-04-01 21:31:40.213649800 +0300
  Birth: 2019-12-07 11:09:05.755385600 +0200
- 
+```
 ##### More details using Process Monitor
  * CommandLine e.g. c:\windows\system32\NetCfgNotifyObjectHost.exe {EAD21270-4FC7-4D17-B829-43227B05C605} 688
  * PID 27092, PPID 17488
