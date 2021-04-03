@@ -62,6 +62,12 @@ Change: 2021-04-01 21:31:40.213649800 +0300
 LxssManager and vmcompute start but WSL network driver does not start.
 NetCfgNotifyObjectHost.exe starts many times (>300) during process
 
+Modifying dns configuration for Ethernet driver
+![image](https://user-images.githubusercontent.com/1210784/113473314-9cee2480-9471-11eb-9326-f18291ed84d0.png)
+causes error.
+![image](https://user-images.githubusercontent.com/1210784/113473288-762fee00-9471-11eb-8afb-666ab7e90c7a.png)
+
+
 # Normally running system
 
 ## Related services
