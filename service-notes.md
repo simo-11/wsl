@@ -60,7 +60,7 @@ Change: 2021-04-01 21:31:40.213649800 +0300
 
 ### Notes
 LxssManager and vmcompute start but WSL network driver does not start.
-NetCfgNotifyObjectHost.exe starts many times during process
+NetCfgNotifyObjectHost.exe starts many times (>300) during process
 
 # Normally running system
 
