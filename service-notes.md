@@ -3,7 +3,9 @@
 ## Introduction
 
 Notes on required services and logging for running wsl.
-Focus is on debugging failure to start
+
+Initial focus was on debugging failure to start wsl. Issue was resolved partially by resetting windows which lead to losing admin rights and update of laptop.
+
 Tables using https://www.tablesgenerator.com/markdown_tables
 
 ### Reproduce
@@ -66,6 +68,7 @@ Modifying dns configuration for Ethernet driver
 ![image](https://user-images.githubusercontent.com/1210784/113473314-9cee2480-9471-11eb-9326-f18291ed84d0.png)
 causes error.
 ![image](https://user-images.githubusercontent.com/1210784/113473288-762fee00-9471-11eb-8afb-666ab7e90c7a.png)
+
 
 
 # Normally running system
